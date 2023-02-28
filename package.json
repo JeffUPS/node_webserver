@@ -12,7 +12,7 @@
   "description": "- Recuerda instalar los paquetes",
   "dependencies": {
     "express": "^4.17.1",
-    "hbs": "^4.1.0"
+    "hbs": "^4.2.0"
   },
   "devDependencies": {},
   "repository": {
